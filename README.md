@@ -1,5 +1,5 @@
 # DJango-Smart-Voting-System-Face-Recognition
-Smart Voting Sstem is a web app developed using Django, HTML and CSS. I added Facial Recognition module in this project to authenticate the voter. OpenCV library is used to perform Facial Recognition tasks.
+Smart Voting System is a web app developed using Django, HTML and CSS. I added Facial Recognition module in this project to authenticate the voter. OpenCV library is used to perform Facial Recognition tasks.
 
 This web app uses Facial Recognition along side traditional passwords which provides an additional security. This Web App is designed to serve the needs of organisation and institutions.
 # Software Requirements
